@@ -1,0 +1,13 @@
+title=Channel
+subtitle=Pasta
+major_version=1
+minor_version=0
+build_version=8
+mm_icon_focus_hd=pkg:/locale/default/images/hd_icon.png
+mm_icon_side_hd=pkg:/locale/default/images/hd_icon.png
+mm_icon_focus_sd=pkg:/locale/default/images/sd_icon.png
+mm_icon_side_sd=pkg:/locale/default/images/sd_icon.png
+splash_screen_sd=pkg:/sd.png
+splash_screen_hd=pkg:/hd.png
+splash_color=#2a665e
+splash_min_time=5000
